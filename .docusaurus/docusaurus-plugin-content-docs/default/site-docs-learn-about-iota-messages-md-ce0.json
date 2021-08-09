@@ -1,0 +1,18 @@
+{
+  "unversionedId": "learn/about-iota/messages",
+  "id": "learn/about-iota/messages",
+  "isDocsHomePage": false,
+  "title": "Messages",
+  "description": "This topic explores messages, models, and payloads that encompass the transfer of data within the Tangle.",
+  "source": "@site/docs/learn/about-iota/messages.md",
+  "sourceDirName": "learn/about-iota",
+  "slug": "/learn/about-iota/messages",
+  "permalink": "/docs/learn/about-iota/messages",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/messages.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "messages",
+    "title": "Messages",
+    "description": "This topic explores messages, models, and payloads that encompass the transfer of data within the Tangle."
+  }
+}

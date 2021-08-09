@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn/iota-token/overview",
+  "id": "learn/iota-token/overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Everything you need to know about the native IOTA token. Read the Tokenomics here.",
+  "source": "@site/docs/learn/iota-token/overview.md",
+  "sourceDirName": "learn/iota-token",
+  "slug": "/learn/iota-token/overview",
+  "permalink": "/docs/learn/iota-token/overview",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/overview.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "title": "Overview",
+    "description": "Everything you need to know about the native IOTA token. Read the Tokenomics here."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Energy efficiency",
+    "permalink": "/docs/learn/about-iota/energy-efficiency"
+  },
+  "next": {
+    "title": "Buying IOTA",
+    "permalink": "/docs/learn/iota-token/buying-iota"
+  }
+}

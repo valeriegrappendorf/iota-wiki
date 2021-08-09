@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/resource-materials/videos",
+  "id": "learn/resource-materials/videos",
+  "isDocsHomePage": false,
+  "title": "Videos",
+  "description": "Great expalanation video's and short clips produced to explain all the amazing feature's that make IOTA so unique.",
+  "source": "@site/docs/learn/resource-materials/videos.md",
+  "sourceDirName": "learn/resource-materials",
+  "slug": "/learn/resource-materials/videos",
+  "permalink": "/docs/learn/resource-materials/videos",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/videos.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Videos",
+    "description": "Great expalanation video's and short clips produced to explain all the amazing feature's that make IOTA so unique."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Infographics",
+    "permalink": "/docs/learn/resource-materials/infographics"
+  },
+  "next": {
+    "title": "FAQ's",
+    "permalink": "/docs/learn/resource-materials/faq's"
+  }
+}

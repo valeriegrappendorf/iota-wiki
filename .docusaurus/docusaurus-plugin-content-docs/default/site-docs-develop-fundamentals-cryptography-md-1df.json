@@ -1,0 +1,26 @@
+{
+  "unversionedId": "develop/fundamentals/cryptography",
+  "id": "develop/fundamentals/cryptography",
+  "isDocsHomePage": false,
+  "title": "Cryptography",
+  "description": "An introduction to the cryptographic methods used within IOTA for the protection of information and communications.",
+  "source": "@site/docs/develop/fundamentals/cryptography.md",
+  "sourceDirName": "develop/fundamentals",
+  "slug": "/develop/fundamentals/cryptography",
+  "permalink": "/docs/develop/fundamentals/cryptography",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/cryptography.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Cryptography",
+    "description": "An introduction to the cryptographic methods used within IOTA for the protection of information and communications."
+  },
+  "sidebar": "develop",
+  "previous": {
+    "title": "DevNet",
+    "permalink": "/docs/develop/getting-started/devnet"
+  },
+  "next": {
+    "title": "Consensus",
+    "permalink": "/docs/develop/fundamentals/consensus"
+  }
+}

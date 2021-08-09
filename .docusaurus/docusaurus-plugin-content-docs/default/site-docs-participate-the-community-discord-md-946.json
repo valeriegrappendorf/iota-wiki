@@ -1,0 +1,26 @@
+{
+  "unversionedId": "participate/the-community/discord",
+  "id": "participate/the-community/discord",
+  "isDocsHomePage": false,
+  "title": "Discord",
+  "description": "The IOTA Discord id the melting pot for community engagemant. Most of the IOTA members are active here. Join a welcoming and active community and chat to thers about everything related to the project.",
+  "source": "@site/docs/participate/the-community/discord.md",
+  "sourceDirName": "participate/the-community",
+  "slug": "/participate/the-community/discord",
+  "permalink": "/docs/participate/the-community/discord",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/discord.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Discord",
+    "description": "The IOTA Discord id the melting pot for community engagemant. Most of the IOTA members are active here. Join a welcoming and active community and chat to thers about everything related to the project."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Craete an Application",
+    "permalink": "/docs/participate/support-the-network/create-an-application"
+  },
+  "next": {
+    "title": "X - Teams",
+    "permalink": "/docs/participate/the-community/x-teams"
+  }
+}

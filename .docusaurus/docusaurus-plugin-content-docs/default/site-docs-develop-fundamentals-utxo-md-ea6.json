@@ -1,0 +1,26 @@
+{
+  "unversionedId": "develop/fundamentals/utxo",
+  "id": "develop/fundamentals/utxo",
+  "isDocsHomePage": false,
+  "title": "UTXO",
+  "description": "My document description from SEO",
+  "source": "@site/docs/develop/fundamentals/utxo.md",
+  "sourceDirName": "develop/fundamentals",
+  "slug": "/develop/fundamentals/utxo",
+  "permalink": "/docs/develop/fundamentals/utxo",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/utxo.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "UTXO",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "develop",
+  "previous": {
+    "title": "Mana",
+    "permalink": "/docs/develop/fundamentals/mana"
+  },
+  "next": {
+    "title": "DApps",
+    "permalink": "/docs/develop/fundamentals/dapps"
+  }
+}

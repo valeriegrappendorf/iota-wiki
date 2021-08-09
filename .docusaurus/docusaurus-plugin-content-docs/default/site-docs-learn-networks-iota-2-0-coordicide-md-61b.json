@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/networks/iota-2.0-coordicide",
+  "id": "learn/networks/iota-2.0-coordicide",
+  "isDocsHomePage": false,
+  "title": "IOTA 2.0 Coordicide",
+  "description": "The future IOTA Mainnet. Totally decentralized and super Secure, Fast and Stabile. 100% Feeless and Free.",
+  "source": "@site/docs/learn/networks/iota-2.0-coordicide.md",
+  "sourceDirName": "learn/networks",
+  "slug": "/learn/networks/iota-2.0-coordicide",
+  "permalink": "/docs/learn/networks/iota-2.0-coordicide",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/iota-2.0-coordicide.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "IOTA 2.0 Coordicide",
+    "description": "The future IOTA Mainnet. Totally decentralized and super Secure, Fast and Stabile. 100% Feeless and Free."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "IOTA 1.5 Chrysalis",
+    "permalink": "/docs/learn/networks/iota-1.5-chrysalis"
+  },
+  "next": {
+    "title": "DevNets",
+    "permalink": "/docs/learn/networks/devnets"
+  }
+}

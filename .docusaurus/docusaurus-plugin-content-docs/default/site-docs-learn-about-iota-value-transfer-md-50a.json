@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn/about-iota/value-transfer",
+  "id": "learn/about-iota/value-transfer",
+  "isDocsHomePage": false,
+  "title": "Value Transfer",
+  "description": "Learn how the IOTA Cryptocurrency transfers it's native IOTA token.",
+  "source": "@site/docs/learn/about-iota/value-transfer.md",
+  "sourceDirName": "learn/about-iota",
+  "slug": "/learn/about-iota/value-transfer",
+  "permalink": "/docs/learn/about-iota/value-transfer",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/value-transfer.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "value-transfer",
+    "title": "Value Transfer",
+    "description": "Learn how the IOTA Cryptocurrency transfers it's native IOTA token."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Data Transfer",
+    "permalink": "/docs/learn/about-iota/data-transfer"
+  },
+  "next": {
+    "title": "Why is IOTA Feeless?",
+    "permalink": "/docs/learn/about-iota/why-is-iota-feeless"
+  }
+}

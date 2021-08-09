@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/networks/iota-1.5-chrysalis",
+  "id": "learn/networks/iota-1.5-chrysalis",
+  "isDocsHomePage": false,
+  "title": "IOTA 1.5 Chrysalis",
+  "description": "The current Mainnet implementation where all IOTA transactions and use cases happen.",
+  "source": "@site/docs/learn/networks/iota-1.5-chrysalis.md",
+  "sourceDirName": "learn/networks",
+  "slug": "/learn/networks/iota-1.5-chrysalis",
+  "permalink": "/docs/learn/networks/iota-1.5-chrysalis",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/iota-1.5-chrysalis.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "IOTA 1.5 Chrysalis",
+    "description": "The current Mainnet implementation where all IOTA transactions and use cases happen."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Hardware Wallet's",
+    "permalink": "/docs/learn/wallets/hardware-wallets"
+  },
+  "next": {
+    "title": "IOTA 2.0 Coordicide",
+    "permalink": "/docs/learn/networks/iota-2.0-coordicide"
+  }
+}

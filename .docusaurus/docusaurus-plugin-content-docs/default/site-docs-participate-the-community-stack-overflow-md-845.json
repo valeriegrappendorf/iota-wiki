@@ -1,0 +1,26 @@
+{
+  "unversionedId": "participate/the-community/stack-overflow",
+  "id": "participate/the-community/stack-overflow",
+  "isDocsHomePage": false,
+  "title": "Stack Overflow",
+  "description": "A more forum style community channel. Use it to ask questions and find answers.",
+  "source": "@site/docs/participate/the-community/stack-overflow.md",
+  "sourceDirName": "participate/the-community",
+  "slug": "/participate/the-community/stack-overflow",
+  "permalink": "/docs/participate/the-community/stack-overflow",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/stack-overflow.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Stack Overflow",
+    "description": "A more forum style community channel. Use it to ask questions and find answers."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "GitHub",
+    "permalink": "/docs/participate/the-community/git-hub"
+  },
+  "next": {
+    "title": "Social Media",
+    "permalink": "/docs/participate/the-community/social-media"
+  }
+}

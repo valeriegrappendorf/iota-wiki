@@ -1,0 +1,23 @@
+{
+  "unversionedId": "learn/about-iota/an-introduction-to-iota",
+  "id": "learn/about-iota/an-introduction-to-iota",
+  "isDocsHomePage": false,
+  "title": "An Introduction to IOTA",
+  "description": "A basic introduction to the IOTA DLT Technology. The use-cases and the Ecosystem developed around it.",
+  "source": "@site/docs/learn/about-iota/an-introduction-to-iota.md",
+  "sourceDirName": "learn/about-iota",
+  "slug": "/learn/about-iota/an-introduction-to-iota",
+  "permalink": "/docs/learn/about-iota/an-introduction-to-iota",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/an-introduction-to-iota.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "an-introduction-to-iota",
+    "title": "An Introduction to IOTA",
+    "description": "A basic introduction to the IOTA DLT Technology. The use-cases and the Ecosystem developed around it."
+  },
+  "sidebar": "learn",
+  "next": {
+    "title": "Data Transfer",
+    "permalink": "/docs/learn/about-iota/data-transfer"
+  }
+}

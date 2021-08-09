@@ -1,0 +1,26 @@
+{
+  "unversionedId": "develop/tutorials/youtube",
+  "id": "develop/tutorials/youtube",
+  "isDocsHomePage": false,
+  "title": "YouTube",
+  "description": "My document description from SEO",
+  "source": "@site/docs/develop/tutorials/youtube.md",
+  "sourceDirName": "develop/tutorials",
+  "slug": "/develop/tutorials/youtube",
+  "permalink": "/docs/develop/tutorials/youtube",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/tutorials/youtube.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "YouTube",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "develop",
+  "previous": {
+    "title": "Hackster",
+    "permalink": "/docs/develop/tutorials/hackster"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/develop/getting-started/architecture"
+  }
+}

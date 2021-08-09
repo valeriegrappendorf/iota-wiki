@@ -1,0 +1,23 @@
+{
+  "unversionedId": "use/streams/encrypted-data-comms",
+  "id": "use/streams/encrypted-data-comms",
+  "isDocsHomePage": false,
+  "title": "encrypted-data-comms",
+  "description": "",
+  "source": "@site/docs/use/streams/encrypted-data-comms.md",
+  "sourceDirName": "use/streams",
+  "slug": "/use/streams/encrypted-data-comms",
+  "permalink": "/docs/use/streams/encrypted-data-comms",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/streams/encrypted-data-comms.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "use",
+  "previous": {
+    "title": "Private Tangle",
+    "permalink": "/docs/use/use-cases/private-tangle"
+  },
+  "next": {
+    "title": "Enabling Privacy and Trust",
+    "permalink": "/docs/use/identity/enabling-privacy-and-trust"
+  }
+}

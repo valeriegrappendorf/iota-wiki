@@ -1,0 +1,22 @@
+{
+  "unversionedId": "develop/getting-started/architecture",
+  "id": "develop/getting-started/architecture",
+  "isDocsHomePage": false,
+  "title": "Architecture",
+  "description": "My document description from SEO",
+  "source": "@site/docs/develop/getting-started/architecture.md",
+  "sourceDirName": "develop/getting-started",
+  "slug": "/develop/getting-started/architecture",
+  "permalink": "/docs/develop/getting-started/architecture",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/getting-started/architecture.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Architecture",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "develop",
+  "next": {
+    "title": "Environment",
+    "permalink": "/docs/develop/getting-started/environment"
+  }
+}

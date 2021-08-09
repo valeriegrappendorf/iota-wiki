@@ -1,0 +1,22 @@
+{
+  "unversionedId": "use/use-cases/industry-applications",
+  "id": "use/use-cases/industry-applications",
+  "isDocsHomePage": false,
+  "title": "Industry Applications",
+  "description": "My document description from SEO",
+  "source": "@site/docs/use/use-cases/industry-applications.md",
+  "sourceDirName": "use/use-cases",
+  "slug": "/use/use-cases/industry-applications",
+  "permalink": "/docs/use/use-cases/industry-applications",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/industry-applications.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Industry Applications",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "use",
+  "next": {
+    "title": "Internet of Things",
+    "permalink": "/docs/use/use-cases/internet-of-things"
+  }
+}

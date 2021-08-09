@@ -1,0 +1,22 @@
+{
+  "unversionedId": "participate/support-the-network/run-a-node",
+  "id": "participate/support-the-network/run-a-node",
+  "isDocsHomePage": false,
+  "title": "Run a Node",
+  "description": "Everything you need to know and learn to setup an IOTA Mainnet or DevNet Node and take actively part in the IOTA Network.",
+  "source": "@site/docs/participate/support-the-network/run-a-node.md",
+  "sourceDirName": "participate/support-the-network",
+  "slug": "/participate/support-the-network/run-a-node",
+  "permalink": "/docs/participate/support-the-network/run-a-node",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/run-a-node.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Run a Node",
+    "description": "Everything you need to know and learn to setup an IOTA Mainnet or DevNet Node and take actively part in the IOTA Network."
+  },
+  "sidebar": "participate",
+  "next": {
+    "title": "Craete an Application",
+    "permalink": "/docs/participate/support-the-network/create-an-application"
+  }
+}

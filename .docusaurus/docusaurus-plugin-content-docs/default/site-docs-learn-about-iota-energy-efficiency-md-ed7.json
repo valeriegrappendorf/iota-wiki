@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn/about-iota/energy-efficiency",
+  "id": "learn/about-iota/energy-efficiency",
+  "isDocsHomePage": false,
+  "title": "Energy efficiency",
+  "description": "Transactions in the IOTA Network are more Energy efficient than in any other Cryptocurrency currently existing.",
+  "source": "@site/docs/learn/about-iota/energy-efficiency.md",
+  "sourceDirName": "learn/about-iota",
+  "slug": "/learn/about-iota/energy-efficiency",
+  "permalink": "/docs/learn/about-iota/energy-efficiency",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/energy-efficiency.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "energy-efficiency",
+    "title": "Energy efficiency",
+    "description": "Transactions in the IOTA Network are more Energy efficient than in any other Cryptocurrency currently existing."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Security",
+    "permalink": "/docs/learn/about-iota/security"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/learn/iota-token/overview"
+  }
+}

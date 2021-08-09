@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/iota-token/token-security",
+  "id": "learn/iota-token/token-security",
+  "isDocsHomePage": false,
+  "title": "Token Security",
+  "description": "The major security properties of the IOTA Token and the IOTA Ledger. Signature schemes, Cryptography and how it all works together.",
+  "source": "@site/docs/learn/iota-token/token-security.md",
+  "sourceDirName": "learn/iota-token",
+  "slug": "/learn/iota-token/token-security",
+  "permalink": "/docs/learn/iota-token/token-security",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/token-security.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Token Security",
+    "description": "The major security properties of the IOTA Token and the IOTA Ledger. Signature schemes, Cryptography and how it all works together."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Transfering Tokens",
+    "permalink": "/docs/learn/iota-token/transfering-tokens"
+  },
+  "next": {
+    "title": "What is a Wallet?",
+    "permalink": "/docs/learn/wallets/what-is-a-wallet"
+  }
+}

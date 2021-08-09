@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn/iota-token/exchanges",
+  "id": "learn/iota-token/exchanges",
+  "isDocsHomePage": false,
+  "title": "Exchanges",
+  "description": "Find all Exchnages that currently offer purchase and trading of IOTA.",
+  "source": "@site/docs/learn/iota-token/exchanges.md",
+  "sourceDirName": "learn/iota-token",
+  "slug": "/learn/iota-token/exchanges",
+  "permalink": "/docs/learn/iota-token/exchanges",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/exchanges.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "exchanges",
+    "title": "Exchanges",
+    "description": "Find all Exchnages that currently offer purchase and trading of IOTA."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Buying IOTA",
+    "permalink": "/docs/learn/iota-token/buying-iota"
+  },
+  "next": {
+    "title": "Transfering Tokens",
+    "permalink": "/docs/learn/iota-token/transfering-tokens"
+  }
+}

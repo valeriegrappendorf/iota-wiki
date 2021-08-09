@@ -1,0 +1,26 @@
+{
+  "unversionedId": "use/oracles/trust-in-real-world-data",
+  "id": "use/oracles/trust-in-real-world-data",
+  "isDocsHomePage": false,
+  "title": "Trust in Real World Data",
+  "description": "IOTA enables you to integrate Data from all kind of outside sources securely into your Application. Learn about IOTA Oracles.",
+  "source": "@site/docs/use/oracles/trust-in-real-world-data.md",
+  "sourceDirName": "use/oracles",
+  "slug": "/use/oracles/trust-in-real-world-data",
+  "permalink": "/docs/use/oracles/trust-in-real-world-data",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/oracles/trust-in-real-world-data.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Trust in Real World Data",
+    "description": "IOTA enables you to integrate Data from all kind of outside sources securely into your Application. Learn about IOTA Oracles."
+  },
+  "sidebar": "use",
+  "previous": {
+    "title": "Protecting your Secrets",
+    "permalink": "/docs/use/stronghold/protecting-your-secrets"
+  },
+  "next": {
+    "title": "Tangle Explorer",
+    "permalink": "/docs/use/utilities/tangle-explorer"
+  }
+}

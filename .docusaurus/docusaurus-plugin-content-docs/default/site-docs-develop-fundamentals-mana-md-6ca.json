@@ -1,0 +1,26 @@
+{
+  "unversionedId": "develop/fundamentals/mana",
+  "id": "develop/fundamentals/mana",
+  "isDocsHomePage": false,
+  "title": "Mana",
+  "description": "My document description from SEO",
+  "source": "@site/docs/develop/fundamentals/mana.md",
+  "sourceDirName": "develop/fundamentals",
+  "slug": "/develop/fundamentals/mana",
+  "permalink": "/docs/develop/fundamentals/mana",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/mana.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Mana",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "develop",
+  "previous": {
+    "title": "Consensus",
+    "permalink": "/docs/develop/fundamentals/consensus"
+  },
+  "next": {
+    "title": "UTXO",
+    "permalink": "/docs/develop/fundamentals/utxo"
+  }
+}

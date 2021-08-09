@@ -1,0 +1,22 @@
+{
+  "unversionedId": "learn/research/grants",
+  "id": "learn/research/grants",
+  "isDocsHomePage": false,
+  "title": "Grants",
+  "description": "The biggest part of the work of the IOTA Foundation is in research & development. Regularly Grants from Governements and Consortiums are issued to the Foundation. See what amazing projects are outlined here.",
+  "source": "@site/docs/learn/research/grants.md",
+  "sourceDirName": "learn/research",
+  "slug": "/learn/research/grants",
+  "permalink": "/docs/learn/research/grants",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/research/grants.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Grants",
+    "description": "The biggest part of the work of the IOTA Foundation is in research & development. Regularly Grants from Governements and Consortiums are issued to the Foundation. See what amazing projects are outlined here."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Papers",
+    "permalink": "/docs/learn/research/papers"
+  }
+}

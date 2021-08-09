@@ -1,0 +1,26 @@
+{
+  "unversionedId": "use/utilities/tangle-explorer",
+  "id": "use/utilities/tangle-explorer",
+  "isDocsHomePage": false,
+  "title": "Tangle Explorer",
+  "description": "Find your transactions and messages, see it all alive and find historic data and statistics of all IOTA Networks.",
+  "source": "@site/docs/use/utilities/tangle-explorer.md",
+  "sourceDirName": "use/utilities",
+  "slug": "/use/utilities/tangle-explorer",
+  "permalink": "/docs/use/utilities/tangle-explorer",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/utilities/tangle-explorer.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Tangle Explorer",
+    "description": "Find your transactions and messages, see it all alive and find historic data and statistics of all IOTA Networks."
+  },
+  "sidebar": "use",
+  "previous": {
+    "title": "Trust in Real World Data",
+    "permalink": "/docs/use/oracles/trust-in-real-world-data"
+  },
+  "next": {
+    "title": "Network Visualizer",
+    "permalink": "/docs/use/utilities/visualizer"
+  }
+}

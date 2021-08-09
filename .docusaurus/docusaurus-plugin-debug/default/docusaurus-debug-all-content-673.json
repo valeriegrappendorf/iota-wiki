@@ -1,0 +1,2258 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/iota-community/iota-wiki/docs",
+          "versionEditUrlLocalized": "https://github.com/iota-community/iota-wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/valeriegrappendorf/Desktop/iota-wiki/sidebars.js",
+          "contentPath": "/Users/valeriegrappendorf/Desktop/iota-wiki/docs",
+          "contentPathLocalized": "/Users/valeriegrappendorf/Desktop/iota-wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "learn/about-iota/an-introduction-to-iota",
+          "sidebars": {
+            "learn": [
+              {
+                "type": "category",
+                "label": "About IOTA",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/an-introduction-to-iota"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/data-transfer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/value-transfer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/why-is-iota-feeless"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/roadmap-to-decentralization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/security"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/about-iota/energy-efficiency"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "IOTA Token",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/iota-token/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/iota-token/buying-iota"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/iota-token/exchanges"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/iota-token/transfering-tokens"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/iota-token/token-security"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Wallets",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/wallets/what-is-a-wallet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/wallets/firefly-wallet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/wallets/iota-devnet-wallet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/wallets/hardware-wallets"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Networks",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/networks/iota-1.5-chrysalis"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/networks/iota-2.0-coordicide"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/networks/devnets"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Resource Materials",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/resource-materials/glossary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/resource-materials/fact-base"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/resource-materials/infographics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/resource-materials/videos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/resource-materials/faq's"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Research",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/research/research-outline"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/research/papers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/research/grants"
+                  }
+                ],
+                "collapsible": true
+              }
+            ],
+            "use": [
+              {
+                "type": "category",
+                "label": "Use Cases",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/industry-applications"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/internet-of-things"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/digital-assets"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/nfts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/data-confidence"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/eco-social-projects"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/use-cases/private-tangle"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Streams",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/streams/encrypted-data-comms"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Identity",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/identity/enabling-privacy-and-trust"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Smart Contracts",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/smart-contracts/programmable-contracts"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Access",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/access/secure-access-control"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Stronghold",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/stronghold/protecting-your-secrets"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Oracles",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/oracles/trust-in-real-world-data"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Utilities",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use/utilities/tangle-explorer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/utilities/visualizer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use/utilities/iota-ipfs"
+                  }
+                ],
+                "collapsible": true
+              }
+            ],
+            "participate": [
+              {
+                "type": "category",
+                "label": "Support The Network",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "participate/support-the-network/run-a-node"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "participate/support-the-network/create-an-application"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "The Community",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "participate/the-community/discord"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "participate/the-community/x-teams"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "participate/the-community/git-hub"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "participate/the-community/stack-overflow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "participate/the-community/social-media"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Partnerships",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "participate/partnerships/iota-partnerships"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Funding",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "participate/funding/edf-funding"
+                  }
+                ],
+                "collapsible": true
+              }
+            ],
+            "develop": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/environment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/send-a-first-message"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/devnet"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Fundamentals",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/fundamentals/cryptography"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/fundamentals/consensus"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/fundamentals/mana"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/fundamentals/utxo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/fundamentals/dapps"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Exchange Integration",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/exchange-integration/guide"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorials",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/tutorials/hackster"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "develop/tutorials/youtube"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Developer Docs",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/architecture"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Project Repos",
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "develop/getting-started/architecture"
+                  }
+                ],
+                "collapsible": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "develop/exchange-integration/guide",
+              "id": "develop/exchange-integration/guide",
+              "isDocsHomePage": false,
+              "title": "Exchange Integration Guide",
+              "description": "Learn how easy and secure it is to integrate IOTA into your Exchange.",
+              "source": "@site/docs/develop/exchange-integration/guide.md",
+              "sourceDirName": "develop/exchange-integration",
+              "slug": "/develop/exchange-integration/guide",
+              "permalink": "/docs/develop/exchange-integration/guide",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/exchange-integration/guide.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Exchange Integration Guide",
+                "description": "Learn how easy and secure it is to integrate IOTA into your Exchange."
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "DApps",
+                "permalink": "/docs/develop/fundamentals/dapps"
+              },
+              "next": {
+                "title": "Hackster",
+                "permalink": "/docs/develop/tutorials/hackster"
+              }
+            },
+            {
+              "unversionedId": "develop/fundamentals/consensus",
+              "id": "develop/fundamentals/consensus",
+              "isDocsHomePage": false,
+              "title": "Consensus",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/fundamentals/consensus.md",
+              "sourceDirName": "develop/fundamentals",
+              "slug": "/develop/fundamentals/consensus",
+              "permalink": "/docs/develop/fundamentals/consensus",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/consensus.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Consensus",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Cryptography",
+                "permalink": "/docs/develop/fundamentals/cryptography"
+              },
+              "next": {
+                "title": "Mana",
+                "permalink": "/docs/develop/fundamentals/mana"
+              }
+            },
+            {
+              "unversionedId": "develop/fundamentals/cryptography",
+              "id": "develop/fundamentals/cryptography",
+              "isDocsHomePage": false,
+              "title": "Cryptography",
+              "description": "An introduction to the cryptographic methods used within IOTA for the protection of information and communications.",
+              "source": "@site/docs/develop/fundamentals/cryptography.md",
+              "sourceDirName": "develop/fundamentals",
+              "slug": "/develop/fundamentals/cryptography",
+              "permalink": "/docs/develop/fundamentals/cryptography",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/cryptography.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Cryptography",
+                "description": "An introduction to the cryptographic methods used within IOTA for the protection of information and communications."
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "DevNet",
+                "permalink": "/docs/develop/getting-started/devnet"
+              },
+              "next": {
+                "title": "Consensus",
+                "permalink": "/docs/develop/fundamentals/consensus"
+              }
+            },
+            {
+              "unversionedId": "develop/fundamentals/dapps",
+              "id": "develop/fundamentals/dapps",
+              "isDocsHomePage": false,
+              "title": "DApps",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/fundamentals/dapps.md",
+              "sourceDirName": "develop/fundamentals",
+              "slug": "/develop/fundamentals/dapps",
+              "permalink": "/docs/develop/fundamentals/dapps",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/dapps.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "DApps",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "UTXO",
+                "permalink": "/docs/develop/fundamentals/utxo"
+              },
+              "next": {
+                "title": "Exchange Integration Guide",
+                "permalink": "/docs/develop/exchange-integration/guide"
+              }
+            },
+            {
+              "unversionedId": "develop/fundamentals/mana",
+              "id": "develop/fundamentals/mana",
+              "isDocsHomePage": false,
+              "title": "Mana",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/fundamentals/mana.md",
+              "sourceDirName": "develop/fundamentals",
+              "slug": "/develop/fundamentals/mana",
+              "permalink": "/docs/develop/fundamentals/mana",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/mana.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Mana",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Consensus",
+                "permalink": "/docs/develop/fundamentals/consensus"
+              },
+              "next": {
+                "title": "UTXO",
+                "permalink": "/docs/develop/fundamentals/utxo"
+              }
+            },
+            {
+              "unversionedId": "develop/fundamentals/utxo",
+              "id": "develop/fundamentals/utxo",
+              "isDocsHomePage": false,
+              "title": "UTXO",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/fundamentals/utxo.md",
+              "sourceDirName": "develop/fundamentals",
+              "slug": "/develop/fundamentals/utxo",
+              "permalink": "/docs/develop/fundamentals/utxo",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/fundamentals/utxo.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "UTXO",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Mana",
+                "permalink": "/docs/develop/fundamentals/mana"
+              },
+              "next": {
+                "title": "DApps",
+                "permalink": "/docs/develop/fundamentals/dapps"
+              }
+            },
+            {
+              "unversionedId": "develop/getting-started/architecture",
+              "id": "develop/getting-started/architecture",
+              "isDocsHomePage": false,
+              "title": "Architecture",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/getting-started/architecture.md",
+              "sourceDirName": "develop/getting-started",
+              "slug": "/develop/getting-started/architecture",
+              "permalink": "/docs/develop/getting-started/architecture",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/getting-started/architecture.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Architecture",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "next": {
+                "title": "Environment",
+                "permalink": "/docs/develop/getting-started/environment"
+              }
+            },
+            {
+              "unversionedId": "develop/getting-started/devnet",
+              "id": "develop/getting-started/devnet",
+              "isDocsHomePage": false,
+              "title": "DevNet",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/getting-started/devnet.md",
+              "sourceDirName": "develop/getting-started",
+              "slug": "/develop/getting-started/devnet",
+              "permalink": "/docs/develop/getting-started/devnet",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/getting-started/devnet.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "DevNet",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Send a first message",
+                "permalink": "/docs/develop/getting-started/send-a-first-message"
+              },
+              "next": {
+                "title": "Cryptography",
+                "permalink": "/docs/develop/fundamentals/cryptography"
+              }
+            },
+            {
+              "unversionedId": "develop/getting-started/environment",
+              "id": "develop/getting-started/environment",
+              "isDocsHomePage": false,
+              "title": "Environment",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/getting-started/environment.md",
+              "sourceDirName": "develop/getting-started",
+              "slug": "/develop/getting-started/environment",
+              "permalink": "/docs/develop/getting-started/environment",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/getting-started/environment.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Environment",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Architecture",
+                "permalink": "/docs/develop/getting-started/architecture"
+              },
+              "next": {
+                "title": "Send a first message",
+                "permalink": "/docs/develop/getting-started/send-a-first-message"
+              }
+            },
+            {
+              "unversionedId": "develop/getting-started/send-a-first-message",
+              "id": "develop/getting-started/send-a-first-message",
+              "isDocsHomePage": false,
+              "title": "Send a first message",
+              "description": "IOTA Hello World Tutorial",
+              "source": "@site/docs/develop/getting-started/send-a-first-message.md",
+              "sourceDirName": "develop/getting-started",
+              "slug": "/develop/getting-started/send-a-first-message",
+              "permalink": "/docs/develop/getting-started/send-a-first-message",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/getting-started/send-a-first-message.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Send a first message",
+                "description": "IOTA Hello World Tutorial"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Environment",
+                "permalink": "/docs/develop/getting-started/environment"
+              },
+              "next": {
+                "title": "DevNet",
+                "permalink": "/docs/develop/getting-started/devnet"
+              }
+            },
+            {
+              "unversionedId": "develop/tutorials/hackster",
+              "id": "develop/tutorials/hackster",
+              "isDocsHomePage": false,
+              "title": "Hackster",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/tutorials/hackster.md",
+              "sourceDirName": "develop/tutorials",
+              "slug": "/develop/tutorials/hackster",
+              "permalink": "/docs/develop/tutorials/hackster",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/tutorials/hackster.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Hackster",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Exchange Integration Guide",
+                "permalink": "/docs/develop/exchange-integration/guide"
+              },
+              "next": {
+                "title": "YouTube",
+                "permalink": "/docs/develop/tutorials/youtube"
+              }
+            },
+            {
+              "unversionedId": "develop/tutorials/youtube",
+              "id": "develop/tutorials/youtube",
+              "isDocsHomePage": false,
+              "title": "YouTube",
+              "description": "My document description from SEO",
+              "source": "@site/docs/develop/tutorials/youtube.md",
+              "sourceDirName": "develop/tutorials",
+              "slug": "/develop/tutorials/youtube",
+              "permalink": "/docs/develop/tutorials/youtube",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/tutorials/youtube.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "YouTube",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "develop",
+              "previous": {
+                "title": "Hackster",
+                "permalink": "/docs/develop/tutorials/hackster"
+              },
+              "next": {
+                "title": "Architecture",
+                "permalink": "/docs/develop/getting-started/architecture"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/an-introduction-to-iota",
+              "id": "learn/about-iota/an-introduction-to-iota",
+              "isDocsHomePage": false,
+              "title": "An Introduction to IOTA",
+              "description": "A basic introduction to the IOTA DLT Technology. The use-cases and the Ecosystem developed around it.",
+              "source": "@site/docs/learn/about-iota/an-introduction-to-iota.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/an-introduction-to-iota",
+              "permalink": "/docs/learn/about-iota/an-introduction-to-iota",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/an-introduction-to-iota.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "an-introduction-to-iota",
+                "title": "An Introduction to IOTA",
+                "description": "A basic introduction to the IOTA DLT Technology. The use-cases and the Ecosystem developed around it."
+              },
+              "sidebar": "learn",
+              "next": {
+                "title": "Data Transfer",
+                "permalink": "/docs/learn/about-iota/data-transfer"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/data-transfer",
+              "id": "learn/about-iota/data-transfer",
+              "isDocsHomePage": false,
+              "title": "Data Transfer",
+              "description": "A major use-case for the IOTA Technology is Data Transfer. Learn how it works.",
+              "source": "@site/docs/learn/about-iota/data-transfer.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/data-transfer",
+              "permalink": "/docs/learn/about-iota/data-transfer",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/data-transfer.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Data Transfer",
+                "description": "A major use-case for the IOTA Technology is Data Transfer. Learn how it works."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "An Introduction to IOTA",
+                "permalink": "/docs/learn/about-iota/an-introduction-to-iota"
+              },
+              "next": {
+                "title": "Value Transfer",
+                "permalink": "/docs/learn/about-iota/value-transfer"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/energy-efficiency",
+              "id": "learn/about-iota/energy-efficiency",
+              "isDocsHomePage": false,
+              "title": "Energy efficiency",
+              "description": "Transactions in the IOTA Network are more Energy efficient than in any other Cryptocurrency currently existing.",
+              "source": "@site/docs/learn/about-iota/energy-efficiency.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/energy-efficiency",
+              "permalink": "/docs/learn/about-iota/energy-efficiency",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/energy-efficiency.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "energy-efficiency",
+                "title": "Energy efficiency",
+                "description": "Transactions in the IOTA Network are more Energy efficient than in any other Cryptocurrency currently existing."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Security",
+                "permalink": "/docs/learn/about-iota/security"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/learn/iota-token/overview"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/messages",
+              "id": "learn/about-iota/messages",
+              "isDocsHomePage": false,
+              "title": "Messages",
+              "description": "This topic explores messages, models, and payloads that encompass the transfer of data within the Tangle.",
+              "source": "@site/docs/learn/about-iota/messages.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/messages",
+              "permalink": "/docs/learn/about-iota/messages",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/messages.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "messages",
+                "title": "Messages",
+                "description": "This topic explores messages, models, and payloads that encompass the transfer of data within the Tangle."
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/roadmap-to-decentralization",
+              "id": "learn/about-iota/roadmap-to-decentralization",
+              "isDocsHomePage": false,
+              "title": "Roadmap to Decentralization",
+              "description": "IOTA moves quickly towards full decentralization. This page describes the plan to reach this goal.",
+              "source": "@site/docs/learn/about-iota/roadmap-to-decentralization.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/roadmap-to-decentralization",
+              "permalink": "/docs/learn/about-iota/roadmap-to-decentralization",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/roadmap-to-decentralization.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "roadmap-to-decentralization",
+                "title": "Roadmap to Decentralization",
+                "description": "IOTA moves quickly towards full decentralization. This page describes the plan to reach this goal."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Why is IOTA Feeless?",
+                "permalink": "/docs/learn/about-iota/why-is-iota-feeless"
+              },
+              "next": {
+                "title": "Security",
+                "permalink": "/docs/learn/about-iota/security"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/security",
+              "id": "learn/about-iota/security",
+              "isDocsHomePage": false,
+              "title": "Security",
+              "description": "IOTA offers one of the most secure protocols in the DLT space. See how our unique approach works to protect your data and value.",
+              "source": "@site/docs/learn/about-iota/security.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/security",
+              "permalink": "/docs/learn/about-iota/security",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/security.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "security",
+                "title": "Security",
+                "description": "IOTA offers one of the most secure protocols in the DLT space. See how our unique approach works to protect your data and value."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Roadmap to Decentralization",
+                "permalink": "/docs/learn/about-iota/roadmap-to-decentralization"
+              },
+              "next": {
+                "title": "Energy efficiency",
+                "permalink": "/docs/learn/about-iota/energy-efficiency"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/value-transfer",
+              "id": "learn/about-iota/value-transfer",
+              "isDocsHomePage": false,
+              "title": "Value Transfer",
+              "description": "Learn how the IOTA Cryptocurrency transfers it's native IOTA token.",
+              "source": "@site/docs/learn/about-iota/value-transfer.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/value-transfer",
+              "permalink": "/docs/learn/about-iota/value-transfer",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/value-transfer.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "value-transfer",
+                "title": "Value Transfer",
+                "description": "Learn how the IOTA Cryptocurrency transfers it's native IOTA token."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Data Transfer",
+                "permalink": "/docs/learn/about-iota/data-transfer"
+              },
+              "next": {
+                "title": "Why is IOTA Feeless?",
+                "permalink": "/docs/learn/about-iota/why-is-iota-feeless"
+              }
+            },
+            {
+              "unversionedId": "learn/about-iota/why-is-iota-feeless",
+              "id": "learn/about-iota/why-is-iota-feeless",
+              "isDocsHomePage": false,
+              "title": "Why is IOTA Feeless?",
+              "description": "The unique feature of IOTA is the absence of any Fee's in the protocol. Here we explain how this is achieved.",
+              "source": "@site/docs/learn/about-iota/why-is-iota-feeless.md",
+              "sourceDirName": "learn/about-iota",
+              "slug": "/learn/about-iota/why-is-iota-feeless",
+              "permalink": "/docs/learn/about-iota/why-is-iota-feeless",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/about-iota/why-is-iota-feeless.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "why-is-iota-feeless",
+                "title": "Why is IOTA Feeless?",
+                "description": "The unique feature of IOTA is the absence of any Fee's in the protocol. Here we explain how this is achieved."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Value Transfer",
+                "permalink": "/docs/learn/about-iota/value-transfer"
+              },
+              "next": {
+                "title": "Roadmap to Decentralization",
+                "permalink": "/docs/learn/about-iota/roadmap-to-decentralization"
+              }
+            },
+            {
+              "unversionedId": "learn/iota-token/buying-iota",
+              "id": "learn/iota-token/buying-iota",
+              "isDocsHomePage": false,
+              "title": "Buying IOTA",
+              "description": "Where and how to buy the IOTA Cryptocurrency.",
+              "source": "@site/docs/learn/iota-token/buying-iota.md",
+              "sourceDirName": "learn/iota-token",
+              "slug": "/learn/iota-token/buying-iota",
+              "permalink": "/docs/learn/iota-token/buying-iota",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/buying-iota.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "buying-iota",
+                "title": "Buying IOTA",
+                "description": "Where and how to buy the IOTA Cryptocurrency."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/learn/iota-token/overview"
+              },
+              "next": {
+                "title": "Exchanges",
+                "permalink": "/docs/learn/iota-token/exchanges"
+              }
+            },
+            {
+              "unversionedId": "learn/iota-token/exchanges",
+              "id": "learn/iota-token/exchanges",
+              "isDocsHomePage": false,
+              "title": "Exchanges",
+              "description": "Find all Exchnages that currently offer purchase and trading of IOTA.",
+              "source": "@site/docs/learn/iota-token/exchanges.md",
+              "sourceDirName": "learn/iota-token",
+              "slug": "/learn/iota-token/exchanges",
+              "permalink": "/docs/learn/iota-token/exchanges",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/exchanges.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "exchanges",
+                "title": "Exchanges",
+                "description": "Find all Exchnages that currently offer purchase and trading of IOTA."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Buying IOTA",
+                "permalink": "/docs/learn/iota-token/buying-iota"
+              },
+              "next": {
+                "title": "Transfering Tokens",
+                "permalink": "/docs/learn/iota-token/transfering-tokens"
+              }
+            },
+            {
+              "unversionedId": "learn/iota-token/overview",
+              "id": "learn/iota-token/overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "Everything you need to know about the native IOTA token. Read the Tokenomics here.",
+              "source": "@site/docs/learn/iota-token/overview.md",
+              "sourceDirName": "learn/iota-token",
+              "slug": "/learn/iota-token/overview",
+              "permalink": "/docs/learn/iota-token/overview",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/overview.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "overview",
+                "title": "Overview",
+                "description": "Everything you need to know about the native IOTA token. Read the Tokenomics here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Energy efficiency",
+                "permalink": "/docs/learn/about-iota/energy-efficiency"
+              },
+              "next": {
+                "title": "Buying IOTA",
+                "permalink": "/docs/learn/iota-token/buying-iota"
+              }
+            },
+            {
+              "unversionedId": "learn/iota-token/token-security",
+              "id": "learn/iota-token/token-security",
+              "isDocsHomePage": false,
+              "title": "Token Security",
+              "description": "The major security properties of the IOTA Token and the IOTA Ledger. Signature schemes, Cryptography and how it all works together.",
+              "source": "@site/docs/learn/iota-token/token-security.md",
+              "sourceDirName": "learn/iota-token",
+              "slug": "/learn/iota-token/token-security",
+              "permalink": "/docs/learn/iota-token/token-security",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/token-security.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Token Security",
+                "description": "The major security properties of the IOTA Token and the IOTA Ledger. Signature schemes, Cryptography and how it all works together."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Transfering Tokens",
+                "permalink": "/docs/learn/iota-token/transfering-tokens"
+              },
+              "next": {
+                "title": "What is a Wallet?",
+                "permalink": "/docs/learn/wallets/what-is-a-wallet"
+              }
+            },
+            {
+              "unversionedId": "learn/iota-token/transfering-tokens",
+              "id": "learn/iota-token/transfering-tokens",
+              "isDocsHomePage": false,
+              "title": "Transfering Tokens",
+              "description": "How can i transfer IOTA tokens? What do i need to know and what are best practices to do?",
+              "source": "@site/docs/learn/iota-token/transfering-tokens.md",
+              "sourceDirName": "learn/iota-token",
+              "slug": "/learn/iota-token/transfering-tokens",
+              "permalink": "/docs/learn/iota-token/transfering-tokens",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/iota-token/transfering-tokens.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Transfering Tokens",
+                "description": "How can i transfer IOTA tokens? What do i need to know and what are best practices to do?"
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Exchanges",
+                "permalink": "/docs/learn/iota-token/exchanges"
+              },
+              "next": {
+                "title": "Token Security",
+                "permalink": "/docs/learn/iota-token/token-security"
+              }
+            },
+            {
+              "unversionedId": "learn/networks/devnets",
+              "id": "learn/networks/devnets",
+              "isDocsHomePage": false,
+              "title": "DevNets",
+              "description": "Development and Testnet implementations for Research purposes, participate in future developments here.",
+              "source": "@site/docs/learn/networks/devnets.md",
+              "sourceDirName": "learn/networks",
+              "slug": "/learn/networks/devnets",
+              "permalink": "/docs/learn/networks/devnets",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/devnets.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "DevNets",
+                "description": "Development and Testnet implementations for Research purposes, participate in future developments here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "IOTA 2.0 Coordicide",
+                "permalink": "/docs/learn/networks/iota-2.0-coordicide"
+              },
+              "next": {
+                "title": "Glossart",
+                "permalink": "/docs/learn/resource-materials/glossary"
+              }
+            },
+            {
+              "unversionedId": "learn/networks/iota-1.5-chrysalis",
+              "id": "learn/networks/iota-1.5-chrysalis",
+              "isDocsHomePage": false,
+              "title": "IOTA 1.5 Chrysalis",
+              "description": "The current Mainnet implementation where all IOTA transactions and use cases happen.",
+              "source": "@site/docs/learn/networks/iota-1.5-chrysalis.md",
+              "sourceDirName": "learn/networks",
+              "slug": "/learn/networks/iota-1.5-chrysalis",
+              "permalink": "/docs/learn/networks/iota-1.5-chrysalis",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/iota-1.5-chrysalis.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "IOTA 1.5 Chrysalis",
+                "description": "The current Mainnet implementation where all IOTA transactions and use cases happen."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Hardware Wallet's",
+                "permalink": "/docs/learn/wallets/hardware-wallets"
+              },
+              "next": {
+                "title": "IOTA 2.0 Coordicide",
+                "permalink": "/docs/learn/networks/iota-2.0-coordicide"
+              }
+            },
+            {
+              "unversionedId": "learn/networks/iota-2.0-coordicide",
+              "id": "learn/networks/iota-2.0-coordicide",
+              "isDocsHomePage": false,
+              "title": "IOTA 2.0 Coordicide",
+              "description": "The future IOTA Mainnet. Totally decentralized and super Secure, Fast and Stabile. 100% Feeless and Free.",
+              "source": "@site/docs/learn/networks/iota-2.0-coordicide.md",
+              "sourceDirName": "learn/networks",
+              "slug": "/learn/networks/iota-2.0-coordicide",
+              "permalink": "/docs/learn/networks/iota-2.0-coordicide",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/iota-2.0-coordicide.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "IOTA 2.0 Coordicide",
+                "description": "The future IOTA Mainnet. Totally decentralized and super Secure, Fast and Stabile. 100% Feeless and Free."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "IOTA 1.5 Chrysalis",
+                "permalink": "/docs/learn/networks/iota-1.5-chrysalis"
+              },
+              "next": {
+                "title": "DevNets",
+                "permalink": "/docs/learn/networks/devnets"
+              }
+            },
+            {
+              "unversionedId": "learn/networks/network-token-migration",
+              "id": "learn/networks/network-token-migration",
+              "isDocsHomePage": false,
+              "title": "Network Token Migration",
+              "description": "We describe the process of migrating Tokens from the Legacy Network into the new Chrysalis Network",
+              "source": "@site/docs/learn/networks/network-token-migration.md",
+              "sourceDirName": "learn/networks",
+              "slug": "/learn/networks/network-token-migration",
+              "permalink": "/docs/learn/networks/network-token-migration",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/networks/network-token-migration.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Network Token Migration",
+                "description": "We describe the process of migrating Tokens from the Legacy Network into the new Chrysalis Network"
+              }
+            },
+            {
+              "unversionedId": "learn/research/grants",
+              "id": "learn/research/grants",
+              "isDocsHomePage": false,
+              "title": "Grants",
+              "description": "The biggest part of the work of the IOTA Foundation is in research & development. Regularly Grants from Governements and Consortiums are issued to the Foundation. See what amazing projects are outlined here.",
+              "source": "@site/docs/learn/research/grants.md",
+              "sourceDirName": "learn/research",
+              "slug": "/learn/research/grants",
+              "permalink": "/docs/learn/research/grants",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/research/grants.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Grants",
+                "description": "The biggest part of the work of the IOTA Foundation is in research & development. Regularly Grants from Governements and Consortiums are issued to the Foundation. See what amazing projects are outlined here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Papers",
+                "permalink": "/docs/learn/research/papers"
+              }
+            },
+            {
+              "unversionedId": "learn/research/papers",
+              "id": "learn/research/papers",
+              "isDocsHomePage": false,
+              "title": "Papers",
+              "description": "Links to all the Research papers published about IOTA.",
+              "source": "@site/docs/learn/research/papers.md",
+              "sourceDirName": "learn/research",
+              "slug": "/learn/research/papers",
+              "permalink": "/docs/learn/research/papers",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/research/papers.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Papers",
+                "description": "Links to all the Research papers published about IOTA."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Research Outline",
+                "permalink": "/docs/learn/research/research-outline"
+              },
+              "next": {
+                "title": "Grants",
+                "permalink": "/docs/learn/research/grants"
+              }
+            },
+            {
+              "unversionedId": "learn/research/research-outline",
+              "id": "learn/research/research-outline",
+              "isDocsHomePage": false,
+              "title": "Research Outline",
+              "description": "An introduction to the huge work that researchers of the IOTA Foundation and from Universities and Institutes all over the world have done around the IOTA Protocol and Technologie.",
+              "source": "@site/docs/learn/research/research-outline.md",
+              "sourceDirName": "learn/research",
+              "slug": "/learn/research/research-outline",
+              "permalink": "/docs/learn/research/research-outline",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/research/research-outline.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Research Outline",
+                "description": "An introduction to the huge work that researchers of the IOTA Foundation and from Universities and Institutes all over the world have done around the IOTA Protocol and Technologie."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "FAQ's",
+                "permalink": "/docs/learn/resource-materials/faq's"
+              },
+              "next": {
+                "title": "Papers",
+                "permalink": "/docs/learn/research/papers"
+              }
+            },
+            {
+              "unversionedId": "learn/resource-materials/fact-base",
+              "id": "learn/resource-materials/fact-base",
+              "isDocsHomePage": false,
+              "title": "Fact Base",
+              "description": "A collection of fact's to conquer common misunderstandings and false proclamations bout IOTA, Get your fact's right!",
+              "source": "@site/docs/learn/resource-materials/fact-base.md",
+              "sourceDirName": "learn/resource-materials",
+              "slug": "/learn/resource-materials/fact-base",
+              "permalink": "/docs/learn/resource-materials/fact-base",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/fact-base.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Fact Base",
+                "description": "A collection of fact's to conquer common misunderstandings and false proclamations bout IOTA, Get your fact's right!"
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Glossart",
+                "permalink": "/docs/learn/resource-materials/glossary"
+              },
+              "next": {
+                "title": "Infographics",
+                "permalink": "/docs/learn/resource-materials/infographics"
+              }
+            },
+            {
+              "unversionedId": "learn/resource-materials/faq's",
+              "id": "learn/resource-materials/faq's",
+              "isDocsHomePage": false,
+              "title": "FAQ's",
+              "description": "Questions and answers collections. Clear outlined information for the most common questions around IOTA.",
+              "source": "@site/docs/learn/resource-materials/faq's.md",
+              "sourceDirName": "learn/resource-materials",
+              "slug": "/learn/resource-materials/faq's",
+              "permalink": "/docs/learn/resource-materials/faq's",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/faq's.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "FAQ's",
+                "description": "Questions and answers collections. Clear outlined information for the most common questions around IOTA."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Videos",
+                "permalink": "/docs/learn/resource-materials/videos"
+              },
+              "next": {
+                "title": "Research Outline",
+                "permalink": "/docs/learn/research/research-outline"
+              }
+            },
+            {
+              "unversionedId": "learn/resource-materials/glossary",
+              "id": "learn/resource-materials/glossary",
+              "isDocsHomePage": false,
+              "title": "Glossart",
+              "description": "Glossary of all specialized names and phrases used in the IOTA Technology. If you dont understand a wording you will find answers here.",
+              "source": "@site/docs/learn/resource-materials/glossary.md",
+              "sourceDirName": "learn/resource-materials",
+              "slug": "/learn/resource-materials/glossary",
+              "permalink": "/docs/learn/resource-materials/glossary",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/glossary.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Glossart",
+                "description": "Glossary of all specialized names and phrases used in the IOTA Technology. If you dont understand a wording you will find answers here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "DevNets",
+                "permalink": "/docs/learn/networks/devnets"
+              },
+              "next": {
+                "title": "Fact Base",
+                "permalink": "/docs/learn/resource-materials/fact-base"
+              }
+            },
+            {
+              "unversionedId": "learn/resource-materials/infographics",
+              "id": "learn/resource-materials/infographics",
+              "isDocsHomePage": false,
+              "title": "Infographics",
+              "description": "A picture says sometimes more than a thousand words... Downloadable fact sheets and informations for every audience to explain IOTA.",
+              "source": "@site/docs/learn/resource-materials/infographics.md",
+              "sourceDirName": "learn/resource-materials",
+              "slug": "/learn/resource-materials/infographics",
+              "permalink": "/docs/learn/resource-materials/infographics",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/infographics.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Infographics",
+                "description": "A picture says sometimes more than a thousand words... Downloadable fact sheets and informations for every audience to explain IOTA."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Fact Base",
+                "permalink": "/docs/learn/resource-materials/fact-base"
+              },
+              "next": {
+                "title": "Videos",
+                "permalink": "/docs/learn/resource-materials/videos"
+              }
+            },
+            {
+              "unversionedId": "learn/resource-materials/videos",
+              "id": "learn/resource-materials/videos",
+              "isDocsHomePage": false,
+              "title": "Videos",
+              "description": "Great expalanation video's and short clips produced to explain all the amazing feature's that make IOTA so unique.",
+              "source": "@site/docs/learn/resource-materials/videos.md",
+              "sourceDirName": "learn/resource-materials",
+              "slug": "/learn/resource-materials/videos",
+              "permalink": "/docs/learn/resource-materials/videos",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/resource-materials/videos.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Videos",
+                "description": "Great expalanation video's and short clips produced to explain all the amazing feature's that make IOTA so unique."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Infographics",
+                "permalink": "/docs/learn/resource-materials/infographics"
+              },
+              "next": {
+                "title": "FAQ's",
+                "permalink": "/docs/learn/resource-materials/faq's"
+              }
+            },
+            {
+              "unversionedId": "learn/wallets/firefly-wallet",
+              "id": "learn/wallets/firefly-wallet",
+              "isDocsHomePage": false,
+              "title": "Firefly Wallet",
+              "description": "The IOTA Firefly Wallet sets a new standard for Software Wallets in DLT. We describe why it is so secure and how amazing it is to use it.",
+              "source": "@site/docs/learn/wallets/firefly-wallet.md",
+              "sourceDirName": "learn/wallets",
+              "slug": "/learn/wallets/firefly-wallet",
+              "permalink": "/docs/learn/wallets/firefly-wallet",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/wallets/firefly-wallet.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Firefly Wallet",
+                "description": "The IOTA Firefly Wallet sets a new standard for Software Wallets in DLT. We describe why it is so secure and how amazing it is to use it."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "What is a Wallet?",
+                "permalink": "/docs/learn/wallets/what-is-a-wallet"
+              },
+              "next": {
+                "title": "IOTA DevNet Wallet",
+                "permalink": "/docs/learn/wallets/iota-devnet-wallet"
+              }
+            },
+            {
+              "unversionedId": "learn/wallets/hardware-wallets",
+              "id": "learn/wallets/hardware-wallets",
+              "isDocsHomePage": false,
+              "title": "Hardware Wallet's",
+              "description": "Currently IOTA supports the Ledger Nano Hardware Wallet's. Get all the info how to use them with IOTA here.",
+              "source": "@site/docs/learn/wallets/hardware-wallets.md",
+              "sourceDirName": "learn/wallets",
+              "slug": "/learn/wallets/hardware-wallets",
+              "permalink": "/docs/learn/wallets/hardware-wallets",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/wallets/hardware-wallets.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Hardware Wallet's",
+                "description": "Currently IOTA supports the Ledger Nano Hardware Wallet's. Get all the info how to use them with IOTA here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "IOTA DevNet Wallet",
+                "permalink": "/docs/learn/wallets/iota-devnet-wallet"
+              },
+              "next": {
+                "title": "IOTA 1.5 Chrysalis",
+                "permalink": "/docs/learn/networks/iota-1.5-chrysalis"
+              }
+            },
+            {
+              "unversionedId": "learn/wallets/iota-devnet-wallet",
+              "id": "learn/wallets/iota-devnet-wallet",
+              "isDocsHomePage": false,
+              "title": "IOTA DevNet Wallet",
+              "description": "A Wallet for the current IOTA 2.o Development - and Testnet. Offers a lot of Functions that will become available in the IOTA 2.0 Mainnet. No real IOTA Tokens are used here.",
+              "source": "@site/docs/learn/wallets/iota-devnet-wallet.md",
+              "sourceDirName": "learn/wallets",
+              "slug": "/learn/wallets/iota-devnet-wallet",
+              "permalink": "/docs/learn/wallets/iota-devnet-wallet",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/wallets/iota-devnet-wallet.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "IOTA DevNet Wallet",
+                "description": "A Wallet for the current IOTA 2.o Development - and Testnet. Offers a lot of Functions that will become available in the IOTA 2.0 Mainnet. No real IOTA Tokens are used here."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Firefly Wallet",
+                "permalink": "/docs/learn/wallets/firefly-wallet"
+              },
+              "next": {
+                "title": "Hardware Wallet's",
+                "permalink": "/docs/learn/wallets/hardware-wallets"
+              }
+            },
+            {
+              "unversionedId": "learn/wallets/what-is-a-wallet",
+              "id": "learn/wallets/what-is-a-wallet",
+              "isDocsHomePage": false,
+              "title": "What is a Wallet?",
+              "description": "A wallet helps you to securely store and handle your Tokens. We describe the different options available.",
+              "source": "@site/docs/learn/wallets/what-is-a-wallet.md",
+              "sourceDirName": "learn/wallets",
+              "slug": "/learn/wallets/what-is-a-wallet",
+              "permalink": "/docs/learn/wallets/what-is-a-wallet",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/wallets/what-is-a-wallet.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "What is a Wallet?",
+                "description": "A wallet helps you to securely store and handle your Tokens. We describe the different options available."
+              },
+              "sidebar": "learn",
+              "previous": {
+                "title": "Token Security",
+                "permalink": "/docs/learn/iota-token/token-security"
+              },
+              "next": {
+                "title": "Firefly Wallet",
+                "permalink": "/docs/learn/wallets/firefly-wallet"
+              }
+            },
+            {
+              "unversionedId": "participate/funding/community-treasury",
+              "id": "participate/funding/community-treasury",
+              "isDocsHomePage": false,
+              "title": "Community - Tresury",
+              "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community",
+              "source": "@site/docs/participate/funding/community-treasury.md",
+              "sourceDirName": "participate/funding",
+              "slug": "/participate/funding/community-treasury",
+              "permalink": "/docs/participate/funding/community-treasury",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/funding/community-treasury.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Community - Tresury",
+                "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community"
+              }
+            },
+            {
+              "unversionedId": "participate/funding/edf-funding",
+              "id": "participate/funding/edf-funding",
+              "isDocsHomePage": false,
+              "title": "EDF - Funding",
+              "description": "IOTA's Ecosystem Development Fund is setup to support community based Projects that aim to build an support IOTA. Apply for your Project.",
+              "source": "@site/docs/participate/funding/edf-funding.md",
+              "sourceDirName": "participate/funding",
+              "slug": "/participate/funding/edf-funding",
+              "permalink": "/docs/participate/funding/edf-funding",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/funding/edf-funding.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "EDF - Funding",
+                "description": "IOTA's Ecosystem Development Fund is setup to support community based Projects that aim to build an support IOTA. Apply for your Project."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "IOTA Partnership",
+                "permalink": "/docs/participate/partnerships/iota-partnerships"
+              }
+            },
+            {
+              "unversionedId": "participate/partnerships/iota-partnerships",
+              "id": "participate/partnerships/iota-partnerships",
+              "isDocsHomePage": false,
+              "title": "IOTA Partnership",
+              "description": "IOTA has found important Partners in all global industries and develops the future together with them. Get an overview of the impressive collection of IOTA's Partners.",
+              "source": "@site/docs/participate/partnerships/iota-partnerships.md",
+              "sourceDirName": "participate/partnerships",
+              "slug": "/participate/partnerships/iota-partnerships",
+              "permalink": "/docs/participate/partnerships/iota-partnerships",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/partnerships/iota-partnerships.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "IOTA Partnership",
+                "description": "IOTA has found important Partners in all global industries and develops the future together with them. Get an overview of the impressive collection of IOTA's Partners."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "Social Media",
+                "permalink": "/docs/participate/the-community/social-media"
+              },
+              "next": {
+                "title": "EDF - Funding",
+                "permalink": "/docs/participate/funding/edf-funding"
+              }
+            },
+            {
+              "unversionedId": "participate/support-the-network/about-nodes",
+              "id": "participate/support-the-network/about-nodes",
+              "isDocsHomePage": false,
+              "title": "About Nodes",
+              "description": "Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.",
+              "source": "@site/docs/participate/support-the-network/about-nodes.md",
+              "sourceDirName": "participate/support-the-network",
+              "slug": "/participate/support-the-network/about-nodes",
+              "permalink": "/docs/participate/support-the-network/about-nodes",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/about-nodes.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "About Nodes",
+                "description": "Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle."
+              }
+            },
+            {
+              "unversionedId": "participate/support-the-network/become-a-node-operator",
+              "id": "participate/support-the-network/become-a-node-operator",
+              "isDocsHomePage": false,
+              "title": "Become a node operator",
+              "description": "Running a node is the best way to use IOTA. This topic provides a checklist of steps for running a reliable node.",
+              "source": "@site/docs/participate/support-the-network/become-a-node-operator.md",
+              "sourceDirName": "participate/support-the-network",
+              "slug": "/participate/support-the-network/become-a-node-operator",
+              "permalink": "/docs/participate/support-the-network/become-a-node-operator",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/become-a-node-operator.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Become a node operator",
+                "description": "Running a node is the best way to use IOTA. This topic provides a checklist of steps for running a reliable node."
+              }
+            },
+            {
+              "unversionedId": "participate/support-the-network/create-an-application",
+              "id": "participate/support-the-network/create-an-application",
+              "isDocsHomePage": false,
+              "title": "Craete an Application",
+              "description": "IOTA is the goto solution if you want a fast, feeless, scalable and secure solution for your Application. Learn how to build what your customers need.",
+              "source": "@site/docs/participate/support-the-network/create-an-application.md",
+              "sourceDirName": "participate/support-the-network",
+              "slug": "/participate/support-the-network/create-an-application",
+              "permalink": "/docs/participate/support-the-network/create-an-application",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/create-an-application.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Craete an Application",
+                "description": "IOTA is the goto solution if you want a fast, feeless, scalable and secure solution for your Application. Learn how to build what your customers need."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "Run a Node",
+                "permalink": "/docs/participate/support-the-network/run-a-node"
+              },
+              "next": {
+                "title": "Discord",
+                "permalink": "/docs/participate/the-community/discord"
+              }
+            },
+            {
+              "unversionedId": "participate/support-the-network/node-software",
+              "id": "participate/support-the-network/node-software",
+              "isDocsHomePage": false,
+              "title": "Node Software",
+              "description": "IOTA networks consist of interconnected nodes that run the same node software. We introduce the different available types and provide guides that will help in setting those nodes up.",
+              "source": "@site/docs/participate/support-the-network/node-software.md",
+              "sourceDirName": "participate/support-the-network",
+              "slug": "/participate/support-the-network/node-software",
+              "permalink": "/docs/participate/support-the-network/node-software",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/node-software.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Node Software",
+                "description": "IOTA networks consist of interconnected nodes that run the same node software. We introduce the different available types and provide guides that will help in setting those nodes up."
+              }
+            },
+            {
+              "unversionedId": "participate/support-the-network/run-a-node",
+              "id": "participate/support-the-network/run-a-node",
+              "isDocsHomePage": false,
+              "title": "Run a Node",
+              "description": "Everything you need to know and learn to setup an IOTA Mainnet or DevNet Node and take actively part in the IOTA Network.",
+              "source": "@site/docs/participate/support-the-network/run-a-node.md",
+              "sourceDirName": "participate/support-the-network",
+              "slug": "/participate/support-the-network/run-a-node",
+              "permalink": "/docs/participate/support-the-network/run-a-node",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/support-the-network/run-a-node.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Run a Node",
+                "description": "Everything you need to know and learn to setup an IOTA Mainnet or DevNet Node and take actively part in the IOTA Network."
+              },
+              "sidebar": "participate",
+              "next": {
+                "title": "Craete an Application",
+                "permalink": "/docs/participate/support-the-network/create-an-application"
+              }
+            },
+            {
+              "unversionedId": "participate/the-community/discord",
+              "id": "participate/the-community/discord",
+              "isDocsHomePage": false,
+              "title": "Discord",
+              "description": "The IOTA Discord id the melting pot for community engagemant. Most of the IOTA members are active here. Join a welcoming and active community and chat to thers about everything related to the project.",
+              "source": "@site/docs/participate/the-community/discord.md",
+              "sourceDirName": "participate/the-community",
+              "slug": "/participate/the-community/discord",
+              "permalink": "/docs/participate/the-community/discord",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/discord.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Discord",
+                "description": "The IOTA Discord id the melting pot for community engagemant. Most of the IOTA members are active here. Join a welcoming and active community and chat to thers about everything related to the project."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "Craete an Application",
+                "permalink": "/docs/participate/support-the-network/create-an-application"
+              },
+              "next": {
+                "title": "X - Teams",
+                "permalink": "/docs/participate/the-community/x-teams"
+              }
+            },
+            {
+              "unversionedId": "participate/the-community/git-hub",
+              "id": "participate/the-community/git-hub",
+              "isDocsHomePage": false,
+              "title": "GitHub",
+              "description": "IOTA is open-source software, and the IOTA GitHub is where all this software is developed. Totaly transparent and open. Meet the IOTA developers and see what amazing solutions are evolving here.",
+              "source": "@site/docs/participate/the-community/git-hub.md",
+              "sourceDirName": "participate/the-community",
+              "slug": "/participate/the-community/git-hub",
+              "permalink": "/docs/participate/the-community/git-hub",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/git-hub.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "GitHub",
+                "description": "IOTA is open-source software, and the IOTA GitHub is where all this software is developed. Totaly transparent and open. Meet the IOTA developers and see what amazing solutions are evolving here."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "X - Teams",
+                "permalink": "/docs/participate/the-community/x-teams"
+              },
+              "next": {
+                "title": "Stack Overflow",
+                "permalink": "/docs/participate/the-community/stack-overflow"
+              }
+            },
+            {
+              "unversionedId": "participate/the-community/social-media",
+              "id": "participate/the-community/social-media",
+              "isDocsHomePage": false,
+              "title": "Social Media",
+              "description": "IOTA has a thriving and active community on all popular social media applications. Find the IOTA Foundation and the community here.",
+              "source": "@site/docs/participate/the-community/social-media.md",
+              "sourceDirName": "participate/the-community",
+              "slug": "/participate/the-community/social-media",
+              "permalink": "/docs/participate/the-community/social-media",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/social-media.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Social Media",
+                "description": "IOTA has a thriving and active community on all popular social media applications. Find the IOTA Foundation and the community here."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "Stack Overflow",
+                "permalink": "/docs/participate/the-community/stack-overflow"
+              },
+              "next": {
+                "title": "IOTA Partnership",
+                "permalink": "/docs/participate/partnerships/iota-partnerships"
+              }
+            },
+            {
+              "unversionedId": "participate/the-community/stack-overflow",
+              "id": "participate/the-community/stack-overflow",
+              "isDocsHomePage": false,
+              "title": "Stack Overflow",
+              "description": "A more forum style community channel. Use it to ask questions and find answers.",
+              "source": "@site/docs/participate/the-community/stack-overflow.md",
+              "sourceDirName": "participate/the-community",
+              "slug": "/participate/the-community/stack-overflow",
+              "permalink": "/docs/participate/the-community/stack-overflow",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/stack-overflow.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Stack Overflow",
+                "description": "A more forum style community channel. Use it to ask questions and find answers."
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "GitHub",
+                "permalink": "/docs/participate/the-community/git-hub"
+              },
+              "next": {
+                "title": "Social Media",
+                "permalink": "/docs/participate/the-community/social-media"
+              }
+            },
+            {
+              "unversionedId": "participate/the-community/x-teams",
+              "id": "participate/the-community/x-teams",
+              "isDocsHomePage": false,
+              "title": "X - Teams",
+              "description": "The IOTA X - Teams is where community engagement and the IOTA Foundation meet each other to work together on solutions. A lot of real progress in the Protocol evolves out of this amazing collaborations. Take part in it!",
+              "source": "@site/docs/participate/the-community/x-teams.md",
+              "sourceDirName": "participate/the-community",
+              "slug": "/participate/the-community/x-teams",
+              "permalink": "/docs/participate/the-community/x-teams",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/the-community/x-teams.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "X - Teams",
+                "description": "The IOTA X - Teams is where community engagement and the IOTA Foundation meet each other to work together on solutions. A lot of real progress in the Protocol evolves out of this amazing collaborations. Take part in it!"
+              },
+              "sidebar": "participate",
+              "previous": {
+                "title": "Discord",
+                "permalink": "/docs/participate/the-community/discord"
+              },
+              "next": {
+                "title": "GitHub",
+                "permalink": "/docs/participate/the-community/git-hub"
+              }
+            },
+            {
+              "unversionedId": "use/access/secure-access-control",
+              "id": "use/access/secure-access-control",
+              "isDocsHomePage": false,
+              "title": "Secure Access Control",
+              "description": "IOTA's unique solution to grant and control access to data and objects.",
+              "source": "@site/docs/use/access/secure-access-control.md",
+              "sourceDirName": "use/access",
+              "slug": "/use/access/secure-access-control",
+              "permalink": "/docs/use/access/secure-access-control",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/access/secure-access-control.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Secure Access Control",
+                "description": "IOTA's unique solution to grant and control access to data and objects."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Programmable Contracts",
+                "permalink": "/docs/use/smart-contracts/programmable-contracts"
+              },
+              "next": {
+                "title": "Protecting your Secrets",
+                "permalink": "/docs/use/stronghold/protecting-your-secrets"
+              }
+            },
+            {
+              "unversionedId": "use/identity/enabling-privacy-and-trust",
+              "id": "use/identity/enabling-privacy-and-trust",
+              "isDocsHomePage": false,
+              "title": "Enabling Privacy and Trust",
+              "description": "IOTA's digital identity Solutions offer amazing new ways to control privacy and data of humans and machines.",
+              "source": "@site/docs/use/identity/enabling-privacy-and-trust.md",
+              "sourceDirName": "use/identity",
+              "slug": "/use/identity/enabling-privacy-and-trust",
+              "permalink": "/docs/use/identity/enabling-privacy-and-trust",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/identity/enabling-privacy-and-trust.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Enabling Privacy and Trust",
+                "description": "IOTA's digital identity Solutions offer amazing new ways to control privacy and data of humans and machines."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "encrypted-data-comms",
+                "permalink": "/docs/use/streams/encrypted-data-comms"
+              },
+              "next": {
+                "title": "Programmable Contracts",
+                "permalink": "/docs/use/smart-contracts/programmable-contracts"
+              }
+            },
+            {
+              "unversionedId": "use/oracles/trust-in-real-world-data",
+              "id": "use/oracles/trust-in-real-world-data",
+              "isDocsHomePage": false,
+              "title": "Trust in Real World Data",
+              "description": "IOTA enables you to integrate Data from all kind of outside sources securely into your Application. Learn about IOTA Oracles.",
+              "source": "@site/docs/use/oracles/trust-in-real-world-data.md",
+              "sourceDirName": "use/oracles",
+              "slug": "/use/oracles/trust-in-real-world-data",
+              "permalink": "/docs/use/oracles/trust-in-real-world-data",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/oracles/trust-in-real-world-data.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Trust in Real World Data",
+                "description": "IOTA enables you to integrate Data from all kind of outside sources securely into your Application. Learn about IOTA Oracles."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Protecting your Secrets",
+                "permalink": "/docs/use/stronghold/protecting-your-secrets"
+              },
+              "next": {
+                "title": "Tangle Explorer",
+                "permalink": "/docs/use/utilities/tangle-explorer"
+              }
+            },
+            {
+              "unversionedId": "use/smart-contracts/programmable-contracts",
+              "id": "use/smart-contracts/programmable-contracts",
+              "isDocsHomePage": false,
+              "title": "Programmable Contracts",
+              "description": "IOTA offers an unique Feeless, Multi-Chain Smart Contract solution that is compatible with Solidity, Rust and Linux.",
+              "source": "@site/docs/use/smart-contracts/programmable-contracts.md",
+              "sourceDirName": "use/smart-contracts",
+              "slug": "/use/smart-contracts/programmable-contracts",
+              "permalink": "/docs/use/smart-contracts/programmable-contracts",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/smart-contracts/programmable-contracts.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Programmable Contracts",
+                "description": "IOTA offers an unique Feeless, Multi-Chain Smart Contract solution that is compatible with Solidity, Rust and Linux."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Enabling Privacy and Trust",
+                "permalink": "/docs/use/identity/enabling-privacy-and-trust"
+              },
+              "next": {
+                "title": "Secure Access Control",
+                "permalink": "/docs/use/access/secure-access-control"
+              }
+            },
+            {
+              "unversionedId": "use/streams/encrypted-data-comms",
+              "id": "use/streams/encrypted-data-comms",
+              "isDocsHomePage": false,
+              "title": "encrypted-data-comms",
+              "description": "",
+              "source": "@site/docs/use/streams/encrypted-data-comms.md",
+              "sourceDirName": "use/streams",
+              "slug": "/use/streams/encrypted-data-comms",
+              "permalink": "/docs/use/streams/encrypted-data-comms",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/streams/encrypted-data-comms.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "use",
+              "previous": {
+                "title": "Private Tangle",
+                "permalink": "/docs/use/use-cases/private-tangle"
+              },
+              "next": {
+                "title": "Enabling Privacy and Trust",
+                "permalink": "/docs/use/identity/enabling-privacy-and-trust"
+              }
+            },
+            {
+              "unversionedId": "use/stronghold/protecting-your-secrets",
+              "id": "use/stronghold/protecting-your-secrets",
+              "isDocsHomePage": false,
+              "title": "Protecting your Secrets",
+              "description": "Stronghold is a set of libraries that enable's the most secure software solution to store secrets with IOTA.",
+              "source": "@site/docs/use/stronghold/protecting-your-secrets.md",
+              "sourceDirName": "use/stronghold",
+              "slug": "/use/stronghold/protecting-your-secrets",
+              "permalink": "/docs/use/stronghold/protecting-your-secrets",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/stronghold/protecting-your-secrets.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Protecting your Secrets",
+                "description": "Stronghold is a set of libraries that enable's the most secure software solution to store secrets with IOTA."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Secure Access Control",
+                "permalink": "/docs/use/access/secure-access-control"
+              },
+              "next": {
+                "title": "Trust in Real World Data",
+                "permalink": "/docs/use/oracles/trust-in-real-world-data"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/data-confidence",
+              "id": "use/use-cases/data-confidence",
+              "isDocsHomePage": false,
+              "title": "Data Confidence",
+              "description": "Data on the Edge and in IOT solutions needs Trsut. IOTA has developed a solution together with Dell and INTEL that delivers exactly this trust.",
+              "source": "@site/docs/use/use-cases/data-confidence.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/data-confidence",
+              "permalink": "/docs/use/use-cases/data-confidence",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/data-confidence.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Data Confidence",
+                "description": "Data on the Edge and in IOT solutions needs Trsut. IOTA has developed a solution together with Dell and INTEL that delivers exactly this trust."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "NFTs",
+                "permalink": "/docs/use/use-cases/nfts"
+              },
+              "next": {
+                "title": "Eco-Social-Projects",
+                "permalink": "/docs/use/use-cases/eco-social-projects"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/digital-assets",
+              "id": "use/use-cases/digital-assets",
+              "isDocsHomePage": false,
+              "title": "Digital Assets",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/digital-assets.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/digital-assets",
+              "permalink": "/docs/use/use-cases/digital-assets",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/digital-assets.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Digital Assets",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Internet of Things",
+                "permalink": "/docs/use/use-cases/internet-of-things"
+              },
+              "next": {
+                "title": "NFTs",
+                "permalink": "/docs/use/use-cases/nfts"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/eco-social-projects",
+              "id": "use/use-cases/eco-social-projects",
+              "isDocsHomePage": false,
+              "title": "Eco-Social-Projects",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/eco-social-projects.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/eco-social-projects",
+              "permalink": "/docs/use/use-cases/eco-social-projects",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/eco-social-projects.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Eco-Social-Projects",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Data Confidence",
+                "permalink": "/docs/use/use-cases/data-confidence"
+              },
+              "next": {
+                "title": "Private Tangle",
+                "permalink": "/docs/use/use-cases/private-tangle"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/industry-applications",
+              "id": "use/use-cases/industry-applications",
+              "isDocsHomePage": false,
+              "title": "Industry Applications",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/industry-applications.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/industry-applications",
+              "permalink": "/docs/use/use-cases/industry-applications",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/industry-applications.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Industry Applications",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "next": {
+                "title": "Internet of Things",
+                "permalink": "/docs/use/use-cases/internet-of-things"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/internet-of-things",
+              "id": "use/use-cases/internet-of-things",
+              "isDocsHomePage": false,
+              "title": "Internet of Things",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/internet-of-things.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/internet-of-things",
+              "permalink": "/docs/use/use-cases/internet-of-things",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/internet-of-things.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Internet of Things",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Industry Applications",
+                "permalink": "/docs/use/use-cases/industry-applications"
+              },
+              "next": {
+                "title": "Digital Assets",
+                "permalink": "/docs/use/use-cases/digital-assets"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/nfts",
+              "id": "use/use-cases/nfts",
+              "isDocsHomePage": false,
+              "title": "NFTs",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/nfts.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/nfts",
+              "permalink": "/docs/use/use-cases/nfts",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/nfts.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "NFTs",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Digital Assets",
+                "permalink": "/docs/use/use-cases/digital-assets"
+              },
+              "next": {
+                "title": "Data Confidence",
+                "permalink": "/docs/use/use-cases/data-confidence"
+              }
+            },
+            {
+              "unversionedId": "use/use-cases/private-tangle",
+              "id": "use/use-cases/private-tangle",
+              "isDocsHomePage": false,
+              "title": "Private Tangle",
+              "description": "My document description from SEO",
+              "source": "@site/docs/use/use-cases/private-tangle.md",
+              "sourceDirName": "use/use-cases",
+              "slug": "/use/use-cases/private-tangle",
+              "permalink": "/docs/use/use-cases/private-tangle",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/use-cases/private-tangle.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Private Tangle",
+                "description": "My document description from SEO"
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Eco-Social-Projects",
+                "permalink": "/docs/use/use-cases/eco-social-projects"
+              },
+              "next": {
+                "title": "encrypted-data-comms",
+                "permalink": "/docs/use/streams/encrypted-data-comms"
+              }
+            },
+            {
+              "unversionedId": "use/utilities/iota-ipfs",
+              "id": "use/utilities/iota-ipfs",
+              "isDocsHomePage": false,
+              "title": "IOTA IPFS",
+              "description": "Combine the IOTA Ledger Technologie with the distributed data storage solution of the InterPlanetary File System IPFS.",
+              "source": "@site/docs/use/utilities/iota-ipfs.md",
+              "sourceDirName": "use/utilities",
+              "slug": "/use/utilities/iota-ipfs",
+              "permalink": "/docs/use/utilities/iota-ipfs",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/utilities/iota-ipfs.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "IOTA IPFS",
+                "description": "Combine the IOTA Ledger Technologie with the distributed data storage solution of the InterPlanetary File System IPFS."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Network Visualizer",
+                "permalink": "/docs/use/utilities/visualizer"
+              }
+            },
+            {
+              "unversionedId": "use/utilities/tangle-explorer",
+              "id": "use/utilities/tangle-explorer",
+              "isDocsHomePage": false,
+              "title": "Tangle Explorer",
+              "description": "Find your transactions and messages, see it all alive and find historic data and statistics of all IOTA Networks.",
+              "source": "@site/docs/use/utilities/tangle-explorer.md",
+              "sourceDirName": "use/utilities",
+              "slug": "/use/utilities/tangle-explorer",
+              "permalink": "/docs/use/utilities/tangle-explorer",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/utilities/tangle-explorer.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Tangle Explorer",
+                "description": "Find your transactions and messages, see it all alive and find historic data and statistics of all IOTA Networks."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Trust in Real World Data",
+                "permalink": "/docs/use/oracles/trust-in-real-world-data"
+              },
+              "next": {
+                "title": "Network Visualizer",
+                "permalink": "/docs/use/utilities/visualizer"
+              }
+            },
+            {
+              "unversionedId": "use/utilities/visualizer",
+              "id": "use/utilities/visualizer",
+              "isDocsHomePage": false,
+              "title": "Network Visualizer",
+              "description": "See the IOTA Tangle in real-time confirming messages and building the unique IOTA Directed Acyclic Graph.",
+              "source": "@site/docs/use/utilities/visualizer.md",
+              "sourceDirName": "use/utilities",
+              "slug": "/use/utilities/visualizer",
+              "permalink": "/docs/use/utilities/visualizer",
+              "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/utilities/visualizer.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Network Visualizer",
+                "description": "See the IOTA Tangle in real-time confirming messages and building the unique IOTA Directed Acyclic Graph."
+              },
+              "sidebar": "use",
+              "previous": {
+                "title": "Tangle Explorer",
+                "permalink": "/docs/use/utilities/tangle-explorer"
+              },
+              "next": {
+                "title": "IOTA IPFS",
+                "permalink": "/docs/use/utilities/iota-ipfs"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

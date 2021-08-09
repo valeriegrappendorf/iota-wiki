@@ -1,0 +1,26 @@
+{
+  "unversionedId": "use/utilities/visualizer",
+  "id": "use/utilities/visualizer",
+  "isDocsHomePage": false,
+  "title": "Network Visualizer",
+  "description": "See the IOTA Tangle in real-time confirming messages and building the unique IOTA Directed Acyclic Graph.",
+  "source": "@site/docs/use/utilities/visualizer.md",
+  "sourceDirName": "use/utilities",
+  "slug": "/use/utilities/visualizer",
+  "permalink": "/docs/use/utilities/visualizer",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/use/utilities/visualizer.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Network Visualizer",
+    "description": "See the IOTA Tangle in real-time confirming messages and building the unique IOTA Directed Acyclic Graph."
+  },
+  "sidebar": "use",
+  "previous": {
+    "title": "Tangle Explorer",
+    "permalink": "/docs/use/utilities/tangle-explorer"
+  },
+  "next": {
+    "title": "IOTA IPFS",
+    "permalink": "/docs/use/utilities/iota-ipfs"
+  }
+}

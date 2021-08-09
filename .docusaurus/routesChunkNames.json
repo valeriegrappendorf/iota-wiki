@@ -1,0 +1,312 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/docs-ea7": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/develop/exchange-integration/guide-584": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-exchange-integration-guide-77-a-a44"
+  },
+  "/docs/develop/fundamentals/consensus-8e7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-fundamentals-consensusecb-1c2"
+  },
+  "/docs/develop/fundamentals/cryptography-d4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-fundamentals-cryptography-1-df-9a0"
+  },
+  "/docs/develop/fundamentals/dapps-b4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-fundamentals-dappsc-8-f-e7c"
+  },
+  "/docs/develop/fundamentals/mana-486": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-fundamentals-mana-6-ca-150"
+  },
+  "/docs/develop/fundamentals/utxo-79a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-fundamentals-utxoea-6-99c"
+  },
+  "/docs/develop/getting-started/architecture-e2e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-getting-started-architecture-175-065"
+  },
+  "/docs/develop/getting-started/devnet-ae6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-getting-started-devnet-8-a-4-96a"
+  },
+  "/docs/develop/getting-started/environment-ab9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-getting-started-environment-386-52e"
+  },
+  "/docs/develop/getting-started/send-a-first-message-471": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-getting-started-send-a-first-messageab-6-dec"
+  },
+  "/docs/develop/tutorials/hackster-dce": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-tutorials-hackster-63-e-9b4"
+  },
+  "/docs/develop/tutorials/youtube-f68": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-develop-tutorials-youtubedd-0-ecb"
+  },
+  "/docs/learn/about-iota/an-introduction-to-iota-90c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-an-introduction-to-iotad-65-f68"
+  },
+  "/docs/learn/about-iota/data-transfer-05b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-data-transfer-55-b-dc4"
+  },
+  "/docs/learn/about-iota/energy-efficiency-96a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-energy-efficiencyed-7-020"
+  },
+  "/docs/learn/about-iota/messages-f84": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-messagesce-0-16b"
+  },
+  "/docs/learn/about-iota/roadmap-to-decentralization-dff": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-roadmap-to-decentralizatione-0-f-752"
+  },
+  "/docs/learn/about-iota/security-ecf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-security-51-d-ce2"
+  },
+  "/docs/learn/about-iota/value-transfer-d05": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-value-transfer-50-a-1fd"
+  },
+  "/docs/learn/about-iota/why-is-iota-feeless-bf2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-about-iota-why-is-iota-feeless-1-e-7-0b3"
+  },
+  "/docs/learn/iota-token/buying-iota-d03": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-iota-token-buying-iota-018-7ee"
+  },
+  "/docs/learn/iota-token/exchanges-4e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-iota-token-exchanges-2-db-18b"
+  },
+  "/docs/learn/iota-token/overview-f55": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-iota-token-overviewe-78-1e3"
+  },
+  "/docs/learn/iota-token/token-security-96b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-iota-token-token-securitye-78-a0d"
+  },
+  "/docs/learn/iota-token/transfering-tokens-bcf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-iota-token-transfering-tokens-157-14c"
+  },
+  "/docs/learn/networks/devnets-ebc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-networks-devnets-11-f-27a"
+  },
+  "/docs/learn/networks/iota-1.5-chrysalis-685": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-networks-iota-1-5-chrysalisc-35-533"
+  },
+  "/docs/learn/networks/iota-2.0-coordicide-bdc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-networks-iota-2-0-coordicide-61-b-2b8"
+  },
+  "/docs/learn/networks/network-token-migration-8d1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-networks-network-token-migratione-39-8e2"
+  },
+  "/docs/learn/research/grants-e1a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-research-grants-375-b00"
+  },
+  "/docs/learn/research/papers-bd7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-research-papers-07-e-d2f"
+  },
+  "/docs/learn/research/research-outline-b2a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-research-research-outline-00-d-226"
+  },
+  "/docs/learn/resource-materials/fact-base-59d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-resource-materials-fact-base-43-d-362"
+  },
+  "/docs/learn/resource-materials/faq's-0db": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-resource-materials-faqse-13-1b5"
+  },
+  "/docs/learn/resource-materials/glossary-535": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-resource-materials-glossaryaca-ce4"
+  },
+  "/docs/learn/resource-materials/infographics-285": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-resource-materials-infographicsda-4-a7a"
+  },
+  "/docs/learn/resource-materials/videos-d6a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-resource-materials-videosbec-274"
+  },
+  "/docs/learn/wallets/firefly-wallet-fb9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-wallets-firefly-wallet-6-dd-25a"
+  },
+  "/docs/learn/wallets/hardware-wallets-0d4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-wallets-hardware-walletsd-52-e9e"
+  },
+  "/docs/learn/wallets/iota-devnet-wallet-559": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-wallets-iota-devnet-walletef-6-23b"
+  },
+  "/docs/learn/wallets/what-is-a-wallet-514": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-wallets-what-is-a-wallete-1-c-da6"
+  },
+  "/docs/participate/funding/community-treasury-790": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-funding-community-treasuryb-50-d7a"
+  },
+  "/docs/participate/funding/edf-funding-771": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-funding-edf-funding-6-c-7-bdf"
+  },
+  "/docs/participate/partnerships/iota-partnerships-957": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-partnerships-iota-partnerships-466-94c"
+  },
+  "/docs/participate/support-the-network/about-nodes-c20": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-support-the-network-about-nodes-875-ca5"
+  },
+  "/docs/participate/support-the-network/become-a-node-operator-74c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-support-the-network-become-a-node-operatora-8-d-e8a"
+  },
+  "/docs/participate/support-the-network/create-an-application-703": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-support-the-network-create-an-applicationda-1-9c2"
+  },
+  "/docs/participate/support-the-network/node-software-2ee": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-support-the-network-node-softwaredea-244"
+  },
+  "/docs/participate/support-the-network/run-a-node-547": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-support-the-network-run-a-nodefb-1-7d0"
+  },
+  "/docs/participate/the-community/discord-eb9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-the-community-discord-946-9be"
+  },
+  "/docs/participate/the-community/git-hub-af9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-the-community-git-hub-86-d-e75"
+  },
+  "/docs/participate/the-community/social-media-04f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-the-community-social-media-9-ab-8f9"
+  },
+  "/docs/participate/the-community/stack-overflow-75d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-the-community-stack-overflow-845-5dc"
+  },
+  "/docs/participate/the-community/x-teams-524": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-participate-the-community-x-teams-7-fe-7f8"
+  },
+  "/docs/use/access/secure-access-control-be4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-access-secure-access-control-75-e-5ee"
+  },
+  "/docs/use/identity/enabling-privacy-and-trust-304": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-identity-enabling-privacy-and-trustdfa-5be"
+  },
+  "/docs/use/oracles/trust-in-real-world-data-3b1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-oracles-trust-in-real-world-data-86-e-2de"
+  },
+  "/docs/use/smart-contracts/programmable-contracts-901": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-smart-contracts-programmable-contractsb-4-c-34d"
+  },
+  "/docs/use/streams/encrypted-data-comms-252": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-streams-encrypted-data-comms-57-c-beb"
+  },
+  "/docs/use/stronghold/protecting-your-secrets-8e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-stronghold-protecting-your-secretsb-40-3ee"
+  },
+  "/docs/use/use-cases/data-confidence-747": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-data-confidence-99-f-3c0"
+  },
+  "/docs/use/use-cases/digital-assets-c62": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-digital-assets-296-5a3"
+  },
+  "/docs/use/use-cases/eco-social-projects-06c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-eco-social-projects-8-b-4-625"
+  },
+  "/docs/use/use-cases/industry-applications-6c4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-industry-applicationscad-608"
+  },
+  "/docs/use/use-cases/internet-of-things-2ad": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-internet-of-things-707-5c4"
+  },
+  "/docs/use/use-cases/nfts-c49": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-nfts-6-b-8-a10"
+  },
+  "/docs/use/use-cases/private-tangle-3b8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-use-cases-private-tangleb-48-e8c"
+  },
+  "/docs/use/utilities/iota-ipfs-536": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-utilities-iota-ipfsffb-d40"
+  },
+  "/docs/use/utilities/tangle-explorer-438": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-utilities-tangle-explorer-7-fc-dcf"
+  },
+  "/docs/use/utilities/visualizer-51a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-use-utilities-visualizer-0-d-0-8e2"
+  }
+}

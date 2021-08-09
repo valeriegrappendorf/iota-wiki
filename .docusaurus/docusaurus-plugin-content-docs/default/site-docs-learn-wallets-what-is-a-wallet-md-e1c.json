@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/wallets/what-is-a-wallet",
+  "id": "learn/wallets/what-is-a-wallet",
+  "isDocsHomePage": false,
+  "title": "What is a Wallet?",
+  "description": "A wallet helps you to securely store and handle your Tokens. We describe the different options available.",
+  "source": "@site/docs/learn/wallets/what-is-a-wallet.md",
+  "sourceDirName": "learn/wallets",
+  "slug": "/learn/wallets/what-is-a-wallet",
+  "permalink": "/docs/learn/wallets/what-is-a-wallet",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/learn/wallets/what-is-a-wallet.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "What is a Wallet?",
+    "description": "A wallet helps you to securely store and handle your Tokens. We describe the different options available."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Token Security",
+    "permalink": "/docs/learn/iota-token/token-security"
+  },
+  "next": {
+    "title": "Firefly Wallet",
+    "permalink": "/docs/learn/wallets/firefly-wallet"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "develop/tutorials/hackster",
+  "id": "develop/tutorials/hackster",
+  "isDocsHomePage": false,
+  "title": "Hackster",
+  "description": "My document description from SEO",
+  "source": "@site/docs/develop/tutorials/hackster.md",
+  "sourceDirName": "develop/tutorials",
+  "slug": "/develop/tutorials/hackster",
+  "permalink": "/docs/develop/tutorials/hackster",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/develop/tutorials/hackster.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Hackster",
+    "description": "My document description from SEO"
+  },
+  "sidebar": "develop",
+  "previous": {
+    "title": "Exchange Integration Guide",
+    "permalink": "/docs/develop/exchange-integration/guide"
+  },
+  "next": {
+    "title": "YouTube",
+    "permalink": "/docs/develop/tutorials/youtube"
+  }
+}

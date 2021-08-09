@@ -1,0 +1,17 @@
+{
+  "unversionedId": "participate/funding/community-treasury",
+  "id": "participate/funding/community-treasury",
+  "isDocsHomePage": false,
+  "title": "Community - Tresury",
+  "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community",
+  "source": "@site/docs/participate/funding/community-treasury.md",
+  "sourceDirName": "participate/funding",
+  "slug": "/participate/funding/community-treasury",
+  "permalink": "/docs/participate/funding/community-treasury",
+  "editUrl": "https://github.com/iota-community/iota-wiki/docs/participate/funding/community-treasury.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Community - Tresury",
+    "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community"
+  }
+}
